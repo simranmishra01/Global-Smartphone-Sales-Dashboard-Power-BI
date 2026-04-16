@@ -12,7 +12,6 @@ This Power BI dashboard delivers end-to-end visibility into global smartphone sa
 
 ## 📊 Dashboard Preview
 
-[Global Smartphone Sales Dashboard](https://github.com/simranmishra01/Global-Smartphone-Sales-Dashboard-Power-BI/blob/main/snapshot%20of%20the%20smartphone%20sales%20dashboard.png )
 [Global Smartphone Sales Dashboard]((https://github.com/simranmishra01/Global-Smartphone-Sales-Dashboard-Power-BI/blob/main/snapshot%20of%20the%20smartphone%20sales%20dashboard.png )
 
 ---
@@ -72,7 +71,7 @@ To provide an interactive, filterable Power BI dashboard that surfaces key sales
 | Top-line metrics | KPI Cards | Total sales, transactions, quantity sold, avg. sale value |
 | Sales by smartphone model | Bar Chart | Vivo S1 leads at 0.60M; OnePlus 8T lowest at 0.10M |
 | Sales by month | Line Chart | Seasonal peaks in May (0.46M) and October (0.47M) |
-| Sales by brand | Donut Chart | Vivo 41.67% · Samsung 25% · OnePlus 16.67% · Apple 8.33% · Xiaomi 8.33% |
+| Sales by brand | Donut Chart | apple 41.67% · Samsung 25% · OnePlus 16.67% · vivo 8.33% · Xiaomi 8.33% |
 | Sales by age group | Bar Chart | Adults dominate at 2.5M; Senior segment near zero |
 | Top selling city | Bar Chart | Delhi at 2.5M — strong regional concentration |
 | Payment method | Donut Chart | UPI 41.67% · Debit Card 33.33% · Cash 25% |
@@ -92,11 +91,11 @@ To provide an interactive, filterable Power BI dashboard that surfaces key sales
 ## 📈 Brand Breakdown
 
 ```
-Vivo      ████████████████████░░░░░░░░░░░░░░░░░░░  41.67%
+Apple     ████████████████████░░░░░░░░░░░░░░░░░░░  41.67%
 Samsung   █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  25.00%
 OnePlus   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16.67%
-Xiaomi    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-Apple     ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+vivo      ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+xiaomi    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 ```
 
 ---
