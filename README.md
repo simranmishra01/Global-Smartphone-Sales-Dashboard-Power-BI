@@ -12,7 +12,8 @@ This Power BI dashboard delivers end-to-end visibility into global smartphone sa
 
 ## 📊 Dashboard Preview
 
-[Global Smartphone Sales Dashboard](https://github.com/simranmishra01/Global-Smartphone-Sales-Dashboard-Power-BI/blob/main/snapshot%20of%20the%20smartphone%20sales%20dashboard.png)
+[Global Smartphone Sales Dashboard](https://github.com/simranmishra01/Global-Smartphone-Sales-Dashboard-Power-BI/blob/main/snapshot%20of%20the%20smartphone%20sales%20dashboard.png )
+[Global Smartphone Sales Dashboard]((https://github.com/simranmishra01/Global-Smartphone-Sales-Dashboard-Power-BI/blob/main/snapshot%20of%20the%20smartphone%20sales%20dashboard.png )
 
 ---
 
